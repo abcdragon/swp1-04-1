@@ -1,2 +1,2 @@
 # 2020XXXX	이강욱
-# Kookmin Univ. SW
+# Kookmin Univ. Computer Science
