@@ -1,2 +1,2 @@
-20203111 이강욱
-Kookmin Univ. SW
+# 20203111 이강욱
+# Kookmin Univ. SW
