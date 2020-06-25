@@ -10,6 +10,9 @@ def application(environ, start_response):
 		a, b = int(a), int(b)
 		response_body[10] += str(a+b)
 		response_body[11] += str(a*b)
+	else:
+		response_body[10] += '0'
+		response_body[11] += '0'
 	response_body = '\n'.join(response_body)
 	start_response('200 OK', [
 		('Content-Type', 'text/html'),
